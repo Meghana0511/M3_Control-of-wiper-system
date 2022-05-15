@@ -2,7 +2,7 @@
 
 # TEST CASES and Corresponding Output
 
-## High Level Test Plan
+
 ## High Level Test Cases
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | STATUS |
 | --------|:------------|:--------|:--------|:-----------|:-------------|
@@ -19,7 +19,7 @@
 
 
 
-## Low Level Test Plan
+
 ## Low Level Test Cases
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | STATUS |
 | --------|:------------|:--------|:--------|:-----------|:-------------|
